@@ -916,7 +916,7 @@ public class Rice {
 		    }
 		  
 		    System.out.printf("\n\t\tGross profit for today is RM%.2f" , sum);
-		    System.out.printf("\n\t\tNet profit for today is RM%.2f " , netProfits);
+		    System.out.printf("\n\t\tNet profit for today without excluded the total price rice bought this month is RM%.2f " , netProfits);
 		    System.out.println();
 		    System.out.println("\n\t\t**************************************************");
 		    System.out.println("\t\t**************************************************");
